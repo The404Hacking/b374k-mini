@@ -1,7 +1,7 @@
 ## b374k (Mini Version)
 PHP Webshell with handy features.
 
-[Screenshot](https://github.com/The404Hacking/b374k-mini/blob/master/Screenshot.png?raw=ture)
+![Screenshot](Screenshot.png?raw=ture "Screenshot")
 
 ## Download and Clone
 > Download: [https://github.com/The404Hacking/b374k-mini/archive/master.zip](https://github.com/The404Hacking/b374k-mini/archive/master.zip)
